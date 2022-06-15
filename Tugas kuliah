@@ -1,0 +1,71 @@
+--Support Info--
+Debug info: +6282268183031
+Device ID: 0
+Description: 2.22.12.80
+Version: 2.22.12.80
+App: com.whatsapp
+MDEnabled: true
+HasMdCompanion: false
+LC: ID
+LG: in
+Context: settings/about
+Carrier: Tsel-PakaiMasker
+Manufacturer: INFINIX MOBILITY LIMITED
+Model: Infinix X687
+useragent: WhatsApp/2.22.12.80 Android/10 Device/INFINIX_MOBILITY_LIMITED-Infinix_X687
+CPU ABI: arm64-v8a
+OS: 10
+Socket Conn: UP
+Radio MCC-MNC: 510-10
+SIM MCC-MNC: 510-89
+Free Space Built-In: 87704281088 (87,70 GB)
+Free Space Removable: 87704281088 (87,70 GB)
+Smb count: 59
+Ent count: 3
+CCode: 62 82268183031
+Target: release
+Product: X687-OP
+Device: Infinix-X687
+Build: X687-H851D-Q-OP-220510V597
+Board: Infinix-X687
+Kernel: Unknown release unknown version
+Connection: M.O.B.I.L.E. (L.T.E.)
+Device ISO8601: 2022-06-16 03:36:25.383+0700
+Phone Type: G.S.M.
+Network Type: U.N.K.N.O.W.N.
+Missing Permissions: android.permission.READ_PHONE_STATE, android.permission.READ_PHONE_NUMBERS, android.permission.RECEIVE_SMS, android.permission.INSTALL_SHORTCUT, android.permission.SCHEDULE_EXACT_ALARM, android.permission.SEND_SMS, android.permission.REQUEST_INSTALL_PACKAGES, com.sec.android.provider.badge.permission.READ, com.sec.android.provider.badge.permission.WRITE, com.htc.launcher.permission.READ_SETTINGS, com.htc.launcher.permission.UPDATE_SHORTCUT, com.sonyericsson.home.permission.BROADCAST_BADGE, com.sonymobile.home.permission.PROVIDER_INSERT_BADGE, com.huawei.android.launcher.permission.READ_SETTINGS, com.huawei.android.launcher.permission.WRITE_SETTINGS, com.huawei.android.launcher.permission.CHANGE_BADGE, android.permission.CALL_PHONE, android.permission.ANSWER_PHONE_CALLS, android.permission.READ_CALL_LOG
+Architecture: aarch64
+Diagnostic Codes: FE-GDE FE-GDC FE-VIDC FE-SMSRTV
+Network metered: 142:true
+Network restricted: 142:false
+AutoConf status: null
+Data roaming: false
+Tel roaming: false
+last tslog call id:
+voip call side: 2
+voip call result: 1
+voip call terminate reason: 4
+voip bind to any relay: Yes
+ref: 342409981383181
+ABprops hash state: false
+Serverprops hash state: true
+Video transcode: supported
+anid: b5a4a2ed-6b9e-42ca-8384-37442f9bfa32
+XPMigrated: no
+Datacenter: frc
+Screen reader: false
+Fingerprint eligible: false
+Last local backup time: 2022-06-16 02:00:08.000+0700
+Google account added: true
+Last successful Google Drive backup time: 2022-06-15 03:17:03.700+0700
+Size of Google Drive backup: 156368396 (156 MB)
+Backup to Google Drive frequency: weekly
+Backed up over: wifi only
+Videos included in backup: false
+Groups media visibility: default
+Individual media visibility: default
+In scoped mode: true
+Has unexpected .nomedia: false
+Is Tablet: false
+Is Foldable: false
+ 
